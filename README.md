@@ -1,0 +1,2 @@
+# Pneumonia Detection from Chest X-Ray Images
+This project aims to detect whether a person has pneumonia given his chest X-ray images. I experimented with weighted pretrained classifiers and fast R-CNN and trained them by [Chest X-Ray Images for Classification Dataset](https://data.mendeley.com/datasets/rscbjbr9sj/2). For details, please refer to `report.pdf`. 
